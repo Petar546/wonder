@@ -19,6 +19,7 @@ state={
 			5210 1
 		}
 		add_core_of = KEN
+		add_core_of = ENG
 	}
 
 	provinces={

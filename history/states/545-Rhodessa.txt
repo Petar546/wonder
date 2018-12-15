@@ -19,6 +19,7 @@ state={
 			10929 1 
 		}
 		add_core_of = ZIM
+		add_core_of = ENG
 	}
 
 	provinces={

@@ -8,7 +8,7 @@ state=
 
 	history=
 	{
-		owner = AST
+		owner = ENG
 		victory_points = {
 			2189 1 
 		}
@@ -19,6 +19,7 @@ state=
 			}
 		}
 		add_core_of = AST
+		add_core_of = ENG
 	}
 	provinces={
 		2183 2189 5181 5187 10665 12645

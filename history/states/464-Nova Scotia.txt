@@ -7,7 +7,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = CAN
+		owner = ENG
 		victory_points = {
 			7361 3
 		}
@@ -21,6 +21,7 @@ state={
 			}
 		}
 		add_core_of = CAN
+		add_core_of = ENG
 	}
 
 	provinces={
