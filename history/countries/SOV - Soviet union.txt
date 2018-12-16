@@ -222,7 +222,7 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 10 #shared between all parties, should add to 100
+			popularity = 78 #shared between all parties, should add to 100
 		}
 
 		fascism = {
@@ -230,21 +230,15 @@ set_politics = {
 		}
 		
 		communism = {
-			popularity = 88
+			popularity = 20
 		}
 	}
 	
-	ruling_party = communism
+	ruling_party = democratic
 	last_election = "1933.7.1"
 	election_frequency = 48
-	elections_allowed = no
+	elections_allowed = yes
 }
-
-create_faction = Comintern
-add_to_faction = SOV
-add_to_faction = MON
-add_to_faction = TAN
-
 
 add_ideas = {
 	trotskyite_plot
