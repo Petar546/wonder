@@ -204,6 +204,20 @@ set_technology = {
 
 set_convoys = 50
 
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = KOR
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = KOR
+	}
+}
+
+
 set_politics = {
 
 	parties = {
