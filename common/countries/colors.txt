@@ -532,6 +532,6 @@ D15 = {
 	color_ui = rgb { 252 182 112 }
 }
 GAL = {
-	color = rgb { 7 7 239 }
-	color_ui = rgb { 7 7 239 }
+	color = rgb { 215 43 43 }
+	color_ui = rgb { 215 43 43 }
 }
